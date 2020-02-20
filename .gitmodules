@@ -1,0 +1,9 @@
+[submodule "third-party/DeepSpeech"]
+	path = third-party/DeepSpeech
+	url = https://github.com/karlkao/DeepSpeech.git
+[submodule "third-party/FFmpeg"]
+	path = third-party/FFmpeg
+	url = https://github.com/karlkao/FFmpeg.git
+[submodule "third-party/py-webrtcvad"]
+	path = third-party/py-webrtcvad
+	url = https://github.com/karlkao/py-webrtcvad.git
