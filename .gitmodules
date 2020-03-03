@@ -7,3 +7,6 @@
 [submodule "third-party/py-webrtcvad"]
 	path = third-party/py-webrtcvad
 	url = https://github.com/karlkao/py-webrtcvad.git
+[submodule "third-party/NeMo"]
+	path = third-party/NeMo
+	url = https://github.com/karlkao/NeMo.git
