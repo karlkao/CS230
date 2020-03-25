@@ -1,5 +1,7 @@
 CS230-project
 
+checkout clone-third-party branch
+
 ./third-party contains submodule of third-party repositories,
 use the submodules command to clone all the necessary source.
 
